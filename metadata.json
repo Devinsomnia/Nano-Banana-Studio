@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Studio",
+  "description": "A powerful image generation and editing tool powered by Gemini 2.5 Flash Image. Generate engineering diagrams or edit photos with natural language prompts.",
+  "requestFramePermissions": []
+}
